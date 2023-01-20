@@ -1,13 +1,13 @@
 ### 🇧🇷 Olá, eu sou o Samuel Santos - 🇺🇸 Hello 👋 , I'm Samuel Santos - 🇯🇵 こんにちは、サミュエルです 😄 
 
-- 🔭 I’m currently working on "ADvance Digital" my possible future company.
-- 🌱 I’m currently learning about data traffic for ad's and message automation.
-- 👯 I’m looking to collaborate on TI companies and AD's.
-- 🤔 I’m looking for help with everything about message automation and AI, every help is welcome.
-- 💬 Ask me about programing languages, 🇯🇵 Japanese language... yes it is one of my hobbies "私の趣味は日本語を習うこと" and history(hermeticism)。
+- 🔭 I’m currently working on RHI Magnesita.
+- 🌱 I’m currently learning about data traffic, directus(framework), react(js-library), microsoft azure(cloud provider) and AI.
+- 👯 I'm working on IT companies with with software development and I help small companies with data traffic.
+- 🤔 I’m looking for help with everything about message automation, machine learning, cloud architecture and AI, every help is welcome.
+- 💬 Ask me about programing languages(JS and Python, preferably), 🇯🇵 Japanese language... yes it is one of my hobbies "私の趣味は日本語を習うこと" and history(hermeticism)。
 - 📫 How to reach me: Send me email in <samuelfds286@gmail.com>.
 - 😄 Pronouns: He
-- ⚡ Fun fact: One day I created a whatsapp bot and it responds to everyone in my computer group on whatsapp its was so funny.
+- ⚡ Fun fact: One day I created a whatsapp bot and it responds to everyone in my computer group on whatsapp, it was so funny.
 
  <div>
   <a href="https://github.com/Samuel1s">
